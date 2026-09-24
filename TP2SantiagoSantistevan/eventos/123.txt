@@ -1,0 +1,4 @@
+Nombre: Pancheada UTN
+ID: 123
+Costo Base: 0.0
+Sala: SUM1
